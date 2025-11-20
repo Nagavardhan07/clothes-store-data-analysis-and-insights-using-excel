@@ -56,11 +56,37 @@ I built an interactive Excel dashboard using:
 
 Download both Excel files.
 
-- Raw Clothes store Dataset.
-- Clothes store data analysis -- in which all the cleaned data, pivot tables and pivotcharts.
-- Dashboard.png
+**📁 Folder Structure**
 
-   <img width="1527" height="693" alt="Dashboard" src="https://github.com/user-attachments/assets/6d600a97-737c-4db1-a7a5-ec8da1a0742b" />
+Clothes Store Analysis/
+
+│
+
+├── Raw Clothes store Dataset.xlsx
+
+├── Clothes store data analysis.xlsx
+
+├── dashboard.png
+
+└── README.md
+
+**📸 Dashboard Preview**
+
+ <img width="1527" height="693" alt="Dashboard" src="https://github.com/user-attachments/assets/6d600a97-737c-4db1-a7a5-ec8da1a0742b" />
+
+**🚀 Outcome**
+
+This project strengthened my skills in:
+
+- Excel data cleaning
+- Sales analytics
+- Dashboard design
+- Business problem-solving
+
+Useful for entry-level **Data Analyst** and **Business Analyst** roles.
+
+  
+
 
 
 
